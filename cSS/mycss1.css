@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(98, 0, 255);
+    
+}
+a{
+    background-color: rgb(20, 20, 184);
+    text-decoration: none;
+    color:yellow;
+    border-radius: 20px;
+    padding:5px;
+    border-color: rgb(20, 20, 184);
+    ;
+    
+}
+a:hover{
+    background-color: rgb(111, 0, 255);
+}
+a:active{
+    background-color: rgb(111, 0, 300);
+}
+.s{
+    background-color: rgb(20, 20, 184);
+    text-decoration: none;
+    color:yellow;
+    border-color:  rgb(20, 20, 184);
+    border-radius: 10px;
+    padding:5px
+    ;
+    height: 27px;
+    text-align:center;
+}
+.s:hover{
+    background-color: rgb(111, 0, 255);
+}
+table{
+    
+    margin: 10px;
+    width: 90%;
+    height: 150px;
+}
+tr{
+  color: rgb(223, 219, 219);
+}
+tr:hover{
+    background-color:rgb(55, 0, 255)
+}
+ol{
+    list-style-type: circle;
+    color:white}
